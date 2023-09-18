@@ -74,5 +74,5 @@ I am Hamza Tanveer,I am currently working as a Senior Software Engineer at Emera
     
 <br>
 
-![Hamza's github stats](https://github-readme-stats.vercel.app/api?username=ht-eml&count_private=true&show_icons=true&theme=dracula&token=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)
+![Hamza's github stats](https://github-readme-stats.vercel.app/api?username=ht-eml&count_private=true&show_icons=true&theme=dracula)
 
