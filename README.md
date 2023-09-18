@@ -73,3 +73,6 @@ I am Hamza Tanveer,I am currently working as a Full Stack Ruby on Rails Develope
 <a href="https://github.com/hamzatanweer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="HridoyHazard" height="30" width="40" /></a>
     
 <br>
+
+![Hamza's github stats](https://github-readme-stats.vercel.app/api?username=ht-eml&count_private=true&show_icons=true&theme=dracula)
+
