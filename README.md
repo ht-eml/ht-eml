@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hamza</h1>
 
-I am Hamza Tanveer,I am currently working as a Full Stack Ruby on Rails Developer at Emerald Labs.
+I am Hamza Tanveer,I am currently working as a Senior Software Engineer at Emerald Labs.
 
 - 🌱 I’ve Expertise in web development ** Ruby on Rails, Node.js, PostgresSql, MongoDB, Machine Learning, Tensorflow, Keras **
 - 👯 I’m looking to collaborate on Web Development Related Projects **
@@ -74,5 +74,5 @@ I am Hamza Tanveer,I am currently working as a Full Stack Ruby on Rails Develope
     
 <br>
 
-![Hamza's github stats](https://github-readme-stats.vercel.app/api?username=ht-eml&count_private=true&show_icons=true&theme=dracula)
+![Hamza's github stats](https://github-readme-stats.vercel.app/api?username=ht-eml&count_private=false&show_icons=true&theme=dracula)
 
