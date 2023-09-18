@@ -23,6 +23,7 @@ I am Hamza Tanveer,I am currently working as a Full Stack Ruby on Rails Develope
 <h4> Frameworks </h4>
 <span>
   <img src="https://img.shields.io/badge/ruby on rails-E34F26?style=for-the-badge&logo=ruby&logoColor=white">
+  <img src="https://img.shields.io/badge/Node.js?style=for-the-badge&logo=ruby&logoColor=white">
   <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
