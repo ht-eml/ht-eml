@@ -5,7 +5,7 @@ I am Hamza Tanveer,I am currently working as a Senior Software Engineer at Emera
 - 🌱 I’ve Expertise in web development ** Ruby on Rails, Node.js, PostgresSql, MongoDB, Machine Learning, Tensorflow, Keras **
 - 👯 I’m looking to collaborate on Web Development Related Projects **
 - 🤔 I’m looking for help with React and Javascript **
-- 🥅 2022 Goals: To be profficient in Ruby on Rails, Node.js and React.
+- 🥅 2023 Goals: To be profficient in Ruby on Rails, Node.js and React.
 - ⚡ Fun fact: I love taking photos, playing video games.
 
 
