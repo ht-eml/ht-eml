@@ -1,17 +1,16 @@
 <h1 align="center">Hi 👋, I'm Hamza</h1>
 
-I am Hamza Tanveer,I am currently working as a Senior Software Engineer at Emerald Labs.
+I am Hamza Tanveer, currently working as a Senior Software Engineer at Emerald Labs.
 
-- 🌱 I’ve Expertise in web development ** Ruby on Rails, Node.js, PostgresSql, MongoDB, Machine Learning, Tensorflow, Keras **
-- 👯 I’m looking to collaborate on Web Development Related Projects **
-- 🤔 I’m looking for help with React and Javascript **
-- 🥅 2023 Goals: To be profficient in Ruby on Rails, Node.js and React.
-- ⚡ Fun fact: I love taking photos, playing video games.
+- 🌱 I’ve expertise in web development with **Ruby on Rails, Node.js, PostgreSQL, MongoDB, Machine Learning, TensorFlow, Keras**
+- 👯 I’m looking to collaborate on Web Development Related Projects
+- 🤔 I’m looking for help with React and JavaScript
+- 🥅 2023 Goals: To be proficient in Ruby on Rails, Node.js, and React.
+- ⚡ Fun fact: I love taking photos and playing video games.
 
+## 👨‍💻 Skills
 
-## Skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 
-
-<h4> Languages </h4>
+### Languages
 <span>
   <img src="https://img.shields.io/badge/Ruby-E34F26?style=for-the-badge&logo=Ruby&logoColor=white">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -20,7 +19,7 @@ I am Hamza Tanveer,I am currently working as a Senior Software Engineer at Emera
   <img src="https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=python&logoColor=black">
 </span>
 
-<h4> Frameworks </h4>
+### Frameworks
 <span>
   <img src="https://img.shields.io/badge/ruby on rails-E34F26?style=for-the-badge&logo=ruby&logoColor=white">
   <img src="https://img.shields.io/badge/Node-F7DF1E?style=for-the-badge&logo=Node&logoColor=black">
@@ -29,7 +28,7 @@ I am Hamza Tanveer,I am currently working as a Senior Software Engineer at Emera
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 </span>
 
-<h4> Databases </h4>
+### Databases
 <span>
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/postgresql-00000F?style=for-the-badge&logo=postgresql&logoColor=white">
@@ -37,13 +36,14 @@ I am Hamza Tanveer,I am currently working as a Senior Software Engineer at Emera
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 </span>
 
-<h4> IDE </h4>
+### IDE
 <span>
-<img src="https://img.shields.io/badge/Atom-00FF00?style=for-the-badge&logo=Atom&logoColor=white">
-<img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important">
-<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+  <img src="https://img.shields.io/badge/Atom-00FF00?style=for-the-badge&logo=Atom&logoColor=white">
+  <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important">
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+</span>
 
-<h4> Operating System </h4>
+### Operating System
 <span>
   <img src="https://img.shields.io/badge/Mac-000000?style=for-the-badge&logo=Apple&logoColor=white">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
@@ -51,7 +51,7 @@ I am Hamza Tanveer,I am currently working as a Senior Software Engineer at Emera
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 </span>
 
-<h4> Other Tools and Technologies </h4>
+### Other Tools and Technologies
 <span>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
@@ -65,14 +65,13 @@ I am Hamza Tanveer,I am currently working as a Senior Software Engineer at Emera
   <img src="https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white">
   <img src="https://img.shields.io/badge/Redis-5E5C5C?style=for-the-badge&logo=redis&logoColor=white">
 </span>
-    
 
-## Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
-<a href="https://www.facebook.com/Daffy010" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hridoy.the.hazard10" height="30" width="40" /></a>
-<a href="https://instagram.com/hamzatanvveer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hridoyalhazard" height="30" width="40" /></a>
-<a href="https://github.com/hamzatanweer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="HridoyHazard" height="30" width="40" /></a>
-    
+## 🚀 Connect with Me
+
+<a href="https://www.facebook.com/Daffy010" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
+<a href="https://instagram.com/hamzatanvveer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+<a href="https://github.com/hamzatanweer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /></a>
+
 <br>
 
-![Hamza's github stats](https://github-readme-stats.vercel.app/api?username=ht-eml&count_private=true&show_icons=true&theme=dracula)
-
+![Hamza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ht-eml&count_private=true&show_icons=true&theme=dracula)
