@@ -23,8 +23,8 @@ I am Hamza Tanveer, currently working as a Senior Software Engineer at Emerald L
 <span>
   <img src="https://img.shields.io/badge/ruby on rails-E34F26?style=for-the-badge&logo=ruby&logoColor=white">
   <img src="https://img.shields.io/badge/Node-F7DF1E?style=for-the-badge&logo=Node&logoColor=black">
-  <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white">
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 </span>
 
