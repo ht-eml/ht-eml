@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hamza</h1>
 
-I am Hamza Tanveer, currently working as a Senior Software Engineer at Emerald Labs.
+I am Hamza Tanveer, currently working as a Senior Software Engineer.
 
 - 🌱 I’ve expertise in web development with **Ruby on Rails, Node.js, PostgreSQL, MongoDB, Machine Learning, TensorFlow, Keras**
 - 👯 I’m looking to collaborate on Web Development Related Projects
