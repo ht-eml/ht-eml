@@ -5,7 +5,7 @@ I am Hamza Tanveer, currently working as a Senior Software Engineer at Emerald L
 - 🌱 I’ve expertise in web development with **Ruby on Rails, Node.js, PostgreSQL, MongoDB, Machine Learning, TensorFlow, Keras**
 - 👯 I’m looking to collaborate on Web Development Related Projects
 - 🤔 I’m looking for help with React and JavaScript
-- 🥅 2023 Goals: To be proficient in Ruby on Rails, Node.js, and React.
+- 🥅 2024 Goals: To be proficient in Ruby on Rails, Node.js, and React.
 - ⚡ Fun fact: I love taking photos and playing video games.
 
 ## 👨‍💻 Skills
